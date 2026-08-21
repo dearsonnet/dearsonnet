@@ -9,4 +9,4 @@
 <p align="center"> <img width="888" height="255" alt="image" src="https://github.com/user-attachments/assets/dc3dc5fe-17d0-4b81-97ef-6c37a62e5ebc" /> </p>
 
 
-https://readme-typing-svg.demolab.com?font=Poppins&speed=30&pause=700&color=COLORCODEHERE&center=true&vCenter=true&width=700&lines=your+lyrics+here!;and+use+this+for+the+uhhh+skipping+the+other+lyric+or+sum
+font=Poppins&speed=30&pause=700&color=COLORCODEHERE&center=true&vCenter=true&width=700&lines=your+lyrics+here!;and+use+this+for+the+uhhh+skipping+the+other+lyric+or+sum
