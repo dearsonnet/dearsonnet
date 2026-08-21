@@ -2,7 +2,7 @@
 
 <div align="center">
 
-bruh
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&weight=700&pause=1000&color=946A33&vCenter=true&width=435&lines=Headshot+baby+.;BANG+BANG+!+;Your+dead+.)](https://git.io/typing-svg)
 
 </div>
 
