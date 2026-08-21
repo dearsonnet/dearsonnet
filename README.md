@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&duration=3020&pause=700&color=946A33&width=435&lines=Some+call+it+stalking+.;I+say+walkin+';just+extremely+close+behind+.;Im+sure+if+i+sat+down+and+asked+you+%2C;well+%2C;you+really+wouldn+'+t+mind+.;You+'+ve+got+those+eyes+that+drive-;me+crazy+.;And+i+'+ve+got+eyes+to+watch+you+sleep+.;i+brought+a+packlunch+and+some+cof-;fee+%2C;For+my+stake+out+in+your+tree+!;Outside+your+house+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&duration=3020&pause=700&color=946A33&center=true&vCenter=width=435&lines=Some+call+it+stalking+.;I+say+walkin+';just+extremely+close+behind+.;Im+sure+if+i+sat+down+and+asked+you+%2C;well+%2C;you+really+wouldn+'+t+mind+.;You+'+ve+got+those+eyes+that+drive-;me+crazy+.;And+i+'+ve+got+eyes+to+watch+you+sleep+.;i+brought+a+packlunch+and+some+cof-;fee+%2C;For+my+stake+out+in+your+tree+!;Outside+your+house+!" alt="Typing SVG" /></a>
 
 </div>
 
