@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&weight=500&duration=3200&pause=985&color=946A33&vCenter=true&width=435&lines=%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80+Headshot+baby+.;%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80+BANG+BANG+!+;%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80+++Your+dead+." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&weight=500&duration=3200&pause=985&color=946A33&vCenter=true&width=435&lines=%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80Headshot+baby+.;%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80BANG+BANG+!+;%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80Your+dead+." alt="Typing SVG" /></a>
 
 </div>
 
