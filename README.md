@@ -14,11 +14,7 @@
 
 </div>
 
-<div align="center">
-
-　<a href="https://visitorbadge.io/status?path=dearsonnet"><img src="https://api.visitorbadge.io/api/visitors?path=dearsonnet&label=victims&labelColor=%23520000&countColor=%23946a33&style=plastic" /></a>
-
-</div>
+　　 　　 　　 　　 　　 　　 <a href="https://visitorbadge.io/status?path=dearsonnet"><img src="https://api.visitorbadge.io/api/visitors?path=dearsonnet&label=victims&labelColor=%23520000&countColor=%23946a33&style=plastic" /></a>
                               
 <p align="center"> <img width="888" height="255" alt="image" src="https://github.com/user-attachments/assets/dc3dc5fe-17d0-4b81-97ef-6c37a62e5ebc" /> </p>
 
