@@ -16,7 +16,7 @@
 
 <div align="center">
 
-[atabook ೀ ](https://ppathetic.atabook.org/) 　　[wall of text boooo](https://walloftext.co/blacks-wall-of-doom) 　　[straw (PLEASE check its has alot of info abt me . ]((https://kanikanika.straw.page))
+[atabook ೀ ](https://ppathetic.atabook.org/) 　　[wall of text boooo](https://walloftext.co/blacks-wall-of-doom) 　　[straw (PLEASE check its has alot of info abt me .)]((https://kanikanika.straw.page))
 
 </div>
                               
