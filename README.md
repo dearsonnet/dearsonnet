@@ -29,6 +29,6 @@
 
 <div align="center">
 
-${\color{#946A33}\text{coral cone}}$
+## ${\color{#946A33}\text{coral cone}}$
 
 </div>
