@@ -17,18 +17,15 @@
 <div align="center">
 
 [atabook ೀ ](https://ppathetic.atabook.org/) 　　[wall of text boooo](https://walloftext.co/blacks-wall-of-doom) 　　[straw //PLEASE check its has alot of info abt me//](https://kanikanika.straw.page)
+
 </div>
                               
 <p align="center"> <img width="888" height="255" alt="image" src="https://github.com/user-attachments/assets/dc3dc5fe-17d0-4b81-97ef-6c37a62e5ebc" /> </p>
 
 <div align="center">
 
-<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/ff230ab8-ff0f-409c-b8e9-0d5855857ccb" />
-
 </div>
+
+<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/e3ca86a9-c519-4c25-a7b1-b56284fad872" />
 
 <div align="center">
-
-## ${\color{#946A33}\text{coral cone}}$
-
-</div>
