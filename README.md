@@ -24,8 +24,12 @@
 
 <div align="center">
 
+<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/e3ca86a9-c519-4c25-a7b1-b56284fad872" />
+
+</div>
+
 <div align="center">
 
-<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/e3ca86a9-c519-4c25-a7b1-b56284fad872" />
+## ${\color{#581917}\text{where does the shampoo go?}}$
 
 </div>
