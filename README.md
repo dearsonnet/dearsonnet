@@ -36,6 +36,6 @@
 
 <div align="center">
 
-[BALD red]((https://github.com/cryptic-fool))
+[BALD red](https://github.com/cryptic-fool)
 
 </div>
