@@ -1,10 +1,10 @@
-<p align="center"> <img width="888" height="255" alt="image" src="https://github.com/user-attachments/assets/75cb3162-aad7-464e-870f-366c3a72814f" /> </p>
-
 <div align="center">
 
-<a href="https://visitorbadge.io/status?path=dearsonnet"><img src="https://api.visitorbadge.io/api/visitors?path=dearsonnet&label=victims&labelColor=%23520000&countColor=%23946a33&style=plastic" /></a>
+<img width="735" height="147" alt="image" src="https://github.com/user-attachments/assets/60fdc7b3-e4d3-422e-977f-c92d997c8d83" />
 
 </div>
+
+
 
 <div align="center">
 
