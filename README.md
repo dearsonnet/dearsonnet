@@ -4,17 +4,11 @@
 
 </div>
 
-
-
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&weight=500&duration=3200&pause=985&color=946A33&vCenter=true&width=435&lines=%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80Headshot+baby+.;%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80BANG+BANG+!+;%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80Your+dead+." alt="Typing SVG" /></a>
+<img width="540" height="440" alt="image" src="https://github.com/user-attachments/assets/347e1640-a8ee-4ae3-acbe-dbcb81c49418" />
 
 </div>
-
-<p align="center"> <img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/74423bba-62a2-4b18-9016-75817563cc08" /> </p>
-
-<div align="center">
 
 [atabook ೀ ](https://ppathetic.atabook.org/) 　　[wall of text boooo](https://walloftext.co/blacks-wall-of-doom) 　　[straw //PLEASE check its has alot of info abt me//](https://kanikanika.straw.page)
 
