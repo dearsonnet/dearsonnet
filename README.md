@@ -29,7 +29,7 @@
 
 <div align="center">
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=dearsonnet&label=knives&labelColor=%23ab7b7e&countColor=%23beb9af&style=flat)
+[![Hits](https://hits.sh/github.com/dearsonnet/hits.svg?label=knives&extraCount=2139394&color=AB7B7E&labelColor=BEB9AF)](https://hits.sh/github.com/dearsonnet/hits/)
 
 </div>
 
