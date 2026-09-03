@@ -29,6 +29,13 @@
 
 <div align="center">
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=dearsonnet&label=knives&labelColor=%23ab7b7e&countColor=%23beb9af&style=flat)
+
+</div>
+
+
+<div align="center">
+
 <img width="735" height="147" alt="image" src="https://github.com/user-attachments/assets/147f29fb-ac94-4bf1-bdad-a12ee4da0e48" />
 
 </div>
