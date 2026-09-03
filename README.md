@@ -7,12 +7,12 @@
 　 
 
 <div align="center">
-
+ 
 <img width="540" height="440" alt="image" src="https://github.com/user-attachments/assets/115aa48f-c628-41a2-9c3f-b9c00bd346e3" />
 
 </div>
 
-　 
+[<img width="235" height="83" alt="image" src="https://github.com/user-attachments/assets/9d098028-7de6-4b0d-b305-4ff731c92697" />](https://ppathetic.atabook.org/)
 
 <div align="center">
 
