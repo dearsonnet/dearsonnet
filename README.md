@@ -18,7 +18,11 @@
 
 </div>
 
+<div align="center">
+
 [<img width="235" height="83" alt="image" src="https://github.com/user-attachments/assets/9d098028-7de6-4b0d-b305-4ff731c92697" />](https://ppathetic.atabook.org/) 　  [<img width="235" height="83" alt="image" src="https://github.com/user-attachments/assets/6811382e-5b88-4171-b6fd-012c8a7b2b4a" />](https://walloftext.co/blacks-wall-of-doom)  　  [<img width="235" height="83" alt="image" src="https://github.com/user-attachments/assets/a36b4bc8-cf76-4289-bcab-5923c0333371" />](https://kanikanika.straw.page)
+
+</div>
 
 <div align="center">
 
