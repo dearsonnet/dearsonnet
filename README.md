@@ -41,6 +41,12 @@
 
 <div align="center">
 
+<img width="448" height="448" alt="image" src="https://github.com/user-attachments/assets/a5c9cf56-3ad4-40ec-b056-eb2b5caf098e" />
+
+</div>
+
+<div align="center">
+
 <img width="735" height="147" alt="image" src="https://github.com/user-attachments/assets/ecc4f863-f9a0-4326-b64f-0414a63b3518" />
 
 </div>
