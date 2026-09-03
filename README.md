@@ -13,16 +13,6 @@
 
 <div align="center">
 
-
-
-    
-
-<div align="center">
-
-<img width="448" height="448" alt="image" src="https://github.com/user-attachments/assets/a5c9cf56-3ad4-40ec-b056-eb2b5caf098e" />
-
-</div>
-
 <img width="735" height="147" alt="image" src="https://github.com/user-attachments/assets/abd1f438-2428-4f28-a2dd-50540cee736c" />
 
 </div>
