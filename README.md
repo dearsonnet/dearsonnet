@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img width="540" height="440" alt="image" src="https://github.com/user-attachments/assets/c046e15f-b036-408a-a4b6-63c2d8ab845d" />
+
 
 
 </div>
@@ -29,7 +29,8 @@
 
 <div align="center">
  
-<img width="540" height="440" alt="image" src="https://github.com/user-attachments/assets/115aa48f-c628-41a2-9c3f-b9c00bd346e3" />
+<img width="540" height="440" alt="image" src="https://github.com/user-attachments/assets/27b228ad-8c58-47d5-afed-780fe43ccacd" />
+
 
 </div>
 
