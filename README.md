@@ -71,14 +71,3 @@
 <img width="735" height="147" alt="image" src="https://github.com/user-attachments/assets/32aacf55-1fd8-412f-967c-0687d2071904" />
 
 </div>
-
-
-
-
-<div align="center">
-
-so cute thank you aww
-
-<img width="626" height="574" alt="image" src="https://github.com/user-attachments/assets/d3473383-20d4-49d4-aec1-b8b74f7906e7" />
-
-</div>
