@@ -58,6 +58,12 @@
 
 </div>
 
+<div align="center">
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=dearsonnet&label=players%20killed.&labelColor=%23ab7b7e&countColor=%23beb9af&style=flat)
+
+</div>
+
 
 
 <div align="center">
