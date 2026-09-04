@@ -28,8 +28,9 @@
 
 <img width="540" height="440" alt="image" src="https://github.com/user-attachments/assets/27b228ad-8c58-47d5-afed-780fe43ccacd" />
 
-
 </div>
+
+
 
 <div align="center">
 
@@ -61,6 +62,14 @@
 <div align="center">
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=dearsonnet&label=players%20killed.&labelColor=%23ab7b7e&countColor=%23beb9af&style=flat)
+
+</div>
+
+
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Relief&duration=3000&pause=700&color=BEB9AF&center=true&width=435&lines=abandon+me+.;hurt+me+.;and+throw+me+away+.;but+I+'+ll+always+follow+you+.+%E2%99%A1)](https://git.io/typing-svg)
 
 </div>
 
