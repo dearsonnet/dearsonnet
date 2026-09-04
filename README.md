@@ -8,9 +8,13 @@
 
 <div align="center">
 
-<img width="735" height="147" alt="image" src="https://github.com/user-attachments/assets/b2e495b8-24bc-4987-8435-c31e7d6d8644" />
+<img width="235" height="83" alt="image" src="https://github.com/user-attachments/assets/163b2e2c-6651-447b-83be-fd3690d57cca" />
+
 
 </div>
+
+
+
 
 <div align="center">
 
