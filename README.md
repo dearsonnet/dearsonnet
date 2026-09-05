@@ -69,7 +69,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Relief&duration=3000&pause=688&color=BEB9AF&width=435&lines=id+kill+for+you+.;let+everything+rot+around+us+.;and+let+all+die+.;because+.+.;of+my+devotion+for+you+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Relief&duration=3000&pause=688&color=BEB9AF&center=true&width=435&lines=id+kill+for+you+.;let+everything+rot+around+us+.;and+let+all+die+.;because+.+.;of+my+devotion+for+you+.)](https://git.io/typing-svg)
 
 </div>
 
